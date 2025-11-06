@@ -1,4 +1,4 @@
-# GUI Experiment Tool - Stream Processing System
+# Facilitating the Benchmarking of Stream Processing Systems in Distributed and Heterogeneous Environments
 
 A web-based GUI tool for benchmarking and monitoring stream processing systems. This tool provides real-time visualization of experiment results, network topology, and system performance metrics.
 
