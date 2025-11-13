@@ -76,7 +76,8 @@ http://localhost:8050
 ├── runBenchmark.py                 
 ├── simple_file_diagram.py          
 ├── requirements.txt                
-└── results/                        ```
+└── results/                      
+```
 
 ## Configuration
 
