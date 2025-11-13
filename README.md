@@ -65,19 +65,18 @@ http://localhost:8050
 
 ```
 .
-├── app.py                          # Main application entry point
+├── app.py                          
 ├── components/
-│   ├── experiment_panel.py         # Experiment configuration and control
-│   ├── live_results_panel.py       # Live monitoring and container stats
-│   ├── live_graph_panel.py         # Real-time graph visualization
-│   └── results_panel.py            # Results analysis and plotting
+│   ├── experiment_panel.py         
+│   ├── live_results_panel.py       
+│   ├── live_graph_panel.py         
+│   └── results_panel.py            
 ├── assets/
-│   └── cytoscape_mouse.js          # Interactive graph controls
-├── runBenchmark.py                 # Benchmark execution script
-├── simple_file_diagram.py          # System architecture diagram generator
-├── requirements.txt                # Python dependencies
-└── results/                        # Experiment results storage
-```
+│   └── cytoscape_mouse.js          
+├── runBenchmark.py                 
+├── simple_file_diagram.py          
+├── requirements.txt                
+└── results/                        ```
 
 ## Configuration
 
